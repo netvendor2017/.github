@@ -5,4 +5,4 @@
 ### Cutting edge vendor risk management solution!
 We're a close team of innovators who have spent over a decade developing the business rules and processes to facilitate a cutting edge vendor management solution with unsurpassed technology and superior customer service.
 
-(Contact Us)[https://www.netvendor.net/contact]
+[Contact Us](https://www.netvendor.net/contact)
